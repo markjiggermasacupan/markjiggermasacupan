@@ -3,13 +3,13 @@
   <br />
   <br />
   <h1>👋 Hi, I'm Mark Jigger Masacupan</h1>
-  <h3>IT Support & Developer in Training</h3>
+  <h3>Self-Taught Developer</h3>
   <p>
     <b>I just want to learn and code for fun.</b>
   </p>
   <p>
-    Based in <b>Santa Rosa, Laguna 🇵🇭</b>. Currently working on my <b>Resume project</b> and exploring new technologies.<br>
-    Specializing in <b>Java, JavaScript, Python, PHP, Laravel</b>.
+    Based in <b>Pangil, Laguna 🇵🇭</b>. Currently working on my <b>Resume project</b> and exploring new technologies.<br>
+    Learning in <b>Java, JavaScript, Python, PHP, Laravel</b>.
   </p>
   <br />
   <h2>🛠️ Tech Stack</h2>
