@@ -54,8 +54,8 @@
   <p><i>"I just want to learn and code for fun."</i></p>
   <br />
   <h2>📬 Get In Touch</h2>
-  <a href="mailto:markjigger.ms@gmail.com">
-    <img src="https://img.shields.io/badge/Email-markjigger.ms%40gmail.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:markjiggervm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-markjiggervm%40gmail.com-red?style=flat-square&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/markjiggermasacupan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
