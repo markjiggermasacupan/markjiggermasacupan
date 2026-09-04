@@ -1,59 +1,85 @@
-# Mark Jigger Masacupan
+<div align="center">
 
-## Web Developer | Continuous Learner
+# Hi, I'm Mark Jigger Masacupan
 
-I am a BS Information Technology graduate majoring in Web and Mobile Application Development. I am building my skills through small, practical projects and learning how to make software that is useful, readable, and accessible.
+### Web Developer and Continuous Learner
 
-I prefer to understand the code I write. This portfolio is intentionally a simple HTML, CSS, and JavaScript project rather than a collection of generated templates or tools that I cannot explain.
+I am a BS Information Technology graduate majoring in Web and Mobile
+Application Development. I learn by building small projects and improving
+them one step at a time.
 
-## Portfolio
+[View my portfolio](./resume.html) ·
+[Email me](mailto:markjiggervm@gmail.com)
 
-This repository contains my personal resume and portfolio website.
+</div>
 
-### What it demonstrates
+---
 
-- Semantic HTML structure
-- Responsive design for desktop and mobile screens
-- Accessible labels, headings, links, and image text
-- CSS layout with Flexbox and media queries
-- A small JavaScript clipboard interaction
-- Honest project descriptions that distinguish planned work from finished work
+## About me
 
-## Technologies
+I enjoy creating straightforward websites and applications that solve a
+specific problem. I am still learning, so I value clear code, useful feedback,
+and understanding the tools I use instead of adding technology just to make a
+project look complex.
 
-- HTML5
-- CSS3
-- JavaScript
+- Currently improving my HTML, CSS, and JavaScript fundamentals
+- Interested in practical web and mobile application development
+- Planning a small inventory system for a sari-sari store
+- Open to entry-level opportunities and learning collaborations
 
-## Run locally
+## What I use
 
-No build tools or package installation are required.
+| Area | Technologies |
+| --- | --- |
+| Web | HTML5, CSS3, JavaScript |
+| Programming | Java, Python, PHP |
+| Frameworks I am learning | Laravel |
+| Tools | Git, GitHub, Visual Studio Code |
 
-1. Download or clone this repository.
+I list technologies here as part of my learning journey. They do not all
+represent the same level of professional experience.
+
+## Featured project
+
+### Personal resume and portfolio
+
+This repository contains a small portfolio website made with plain HTML, CSS,
+and JavaScript.
+
+It demonstrates:
+
+- Semantic HTML sections and accessible labels
+- Responsive layout for desktop and mobile screens
+- CSS Flexbox and media queries
+- A small clipboard interaction for my email address
+- Project descriptions that are honest about what is planned and what is done
+
+The site does not use a framework or build process because a simple project
+does not need one yet.
+
+## How to run it
+
+1. Clone this repository.
 2. Open `resume.html` in a browser.
 
-For a more realistic local web-server environment, use the Live Server extension in Visual Studio Code.
+No package installation is required. You can also use the Live Server
+extension in Visual Studio Code while developing.
 
-## Project files
+## Next steps
 
-| File | Purpose |
-| --- | --- |
-| `resume.html` | Page content and semantic structure |
-| `resume.css` | Layout, colors, typography, and responsive styles |
-| `resume.js` | Copy-email button behavior |
-| `profile.jpg` | Profile image |
-
-## Development approach
-
-I am still learning, so I try to keep the project understandable and improve it step by step. Before adding a library or service, I consider whether it solves a real problem for this small website.
-
-Future improvements may include a completed inventory project, automated browser checks, and deployment through a simple CI workflow. These are goals, not features I currently claim to have implemented.
+I plan to continue improving the portfolio and build the inventory project
+when I have a clear first version to share. I may add automated browser checks
+and a simple deployment workflow later, but I do not describe those as
+implemented until they are working.
 
 ## Contact
 
 - Email: [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
-- GitHub: [markjiggermasacupan](https://github.com/markjiggermasacupan)
+- GitHub: [@markjiggermasacupan](https://github.com/markjiggermasacupan)
 
-## License
+<div align="center">
 
-This portfolio is a personal showcase project. Please contact me before reusing personal content or images.
+Thanks for visiting. I am learning, building, and improving one project at a
+time.
+
+</div>
