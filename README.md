@@ -8,7 +8,6 @@ I am learning by building small, useful web applications and improving them
 one step at a time.
 
 [Portfolio](./resume.html) ·
-[Email](mailto:markjiggervm@gmail.com) ·
 [GitHub](https://github.com/markjiggermasacupan)
 
 </div>
@@ -30,7 +29,6 @@ project.
 - 🏗️ **Current project:** A personal resume and portfolio website
 - 📦 **Next project:** A simple inventory system for a sari-sari store
 - 💼 **Interested in:** Entry-level web development and learning opportunities
-- 📬 **Reach me:** [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
 
 ---
 
@@ -112,8 +110,7 @@ honest about what I know, what I am learning, and what still needs work.
 
 ## 📞 Connect With Me
 
-- **Email:** [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
-- **GitHub:** [@markjiggermasacupan](https://github.com/markjiggermasacupan)
+[markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
 
 <div align="center">
 
