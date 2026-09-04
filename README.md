@@ -1,81 +1,119 @@
 <div align="center">
 
-# Hi, I'm Mark Jigger Masacupan
+# 👋 Hi, I'm Mark Jigger Masacupan
 
-### Web Developer and Continuous Learner
+### Web Developer | Continuous Learner
 
-I am a BS Information Technology graduate majoring in Web and Mobile
-Application Development. I learn by building small projects and improving
-them one step at a time.
+I am learning by building small, useful web applications and improving them
+one step at a time.
 
-[View my portfolio](./resume.html) ·
-[Email me](mailto:markjiggervm@gmail.com)
+[Portfolio](./resume.html) ·
+[Email](mailto:markjiggervm@gmail.com) ·
+[GitHub](https://github.com/markjiggermasacupan)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-I enjoy creating straightforward websites and applications that solve a
-specific problem. I am still learning, so I value clear code, useful feedback,
-and understanding the tools I use instead of adding technology just to make a
-project look complex.
+I am a **BS Information Technology graduate** majoring in **Web and Mobile
+Application Development**. I enjoy making straightforward websites and
+applications that solve a specific problem.
 
-- Currently improving my HTML, CSS, and JavaScript fundamentals
-- Interested in practical web and mobile application development
-- Planning a small inventory system for a sari-sari store
-- Open to entry-level opportunities and learning collaborations
+I am still growing as a developer, so I focus on understanding the code I
+write, asking for feedback, and adding tools only when they are useful for the
+project.
 
-## What I use
+- 🎓 **Education:** BS Information Technology, Web and Mobile Application Development
+- 🔍 **Currently:** Improving my HTML, CSS, JavaScript, and problem-solving skills
+- 🏗️ **Current project:** A personal resume and portfolio website
+- 📦 **Next project:** A simple inventory system for a sari-sari store
+- 💼 **Interested in:** Entry-level web development and learning opportunities
+- 📬 **Reach me:** [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
 
-| Area | Technologies |
-| --- | --- |
-| Web | HTML5, CSS3, JavaScript |
-| Programming | Java, Python, PHP |
-| Frameworks I am learning | Laravel |
-| Tools | Git, GitHub, Visual Studio Code |
+---
 
-I list technologies here as part of my learning journey. They do not all
+## 📚 Learning Activity
+
+This profile represents an ongoing learning journey. I update projects as I
+learn more and label planned work honestly instead of presenting it as
+finished.
+
+- Practicing semantic HTML and accessible page structure
+- Building responsive layouts with CSS Flexbox and media queries
+- Learning JavaScript through small browser interactions
+- Studying basic database and application design
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+These are the technologies I use or am currently learning. They do not all
 represent the same level of professional experience.
 
-## Featured project
+### 🌐 Web
 
-### Personal resume and portfolio
+`HTML5` `CSS3` `JavaScript`
 
-This repository contains a small portfolio website made with plain HTML, CSS,
-and JavaScript.
+### 💻 Programming
 
-It demonstrates:
+`Java` `Python` `PHP`
 
-- Semantic HTML sections and accessible labels
-- Responsive layout for desktop and mobile screens
-- CSS Flexbox and media queries
-- A small clipboard interaction for my email address
-- Project descriptions that are honest about what is planned and what is done
+### 🧰 Frameworks and Tools
 
-The site does not use a framework or build process because a simple project
-does not need one yet.
+`Laravel (learning)` `Git` `GitHub` `Visual Studio Code`
 
-## How to run it
+---
 
-1. Clone this repository.
-2. Open `resume.html` in a browser.
+## 🚀 Featured Projects
 
-No package installation is required. You can also use the Live Server
-extension in Visual Studio Code while developing.
+### 📄 Personal Resume and Portfolio
 
-## Next steps
+This repository contains a small portfolio site made with plain HTML, CSS, and
+JavaScript.
 
-I plan to continue improving the portfolio and build the inventory project
-when I have a clear first version to share. I may add automated browser checks
-and a simple deployment workflow later, but I do not describe those as
-implemented until they are working.
+- Uses semantic sections and accessible labels
+- Works on desktop and mobile screens
+- Includes a small copy-email interaction
+- Uses no framework or build process because this project does not need one yet
 
-## Contact
+**Status:** Active learning project  
+**Repository:** [markjiggermasacupan](https://github.com/markjiggermasacupan/markjiggermasacupan)
 
-- Email: [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
-- GitHub: [@markjiggermasacupan](https://github.com/markjiggermasacupan)
+### 🛒 Sari-sari Store Inventory
+
+A planned application for recording products, stock levels, and simple sales
+reports for a small local store.
+
+**Status:** Planned
+
+---
+
+## 🎯 Current Focus
+
+- Building a first usable version of the inventory project
+- Writing clearer and more maintainable JavaScript
+- Learning basic testing and deployment practices
+- Improving accessibility and responsive design
+
+I will add CI/CD, automated tests, or other infrastructure when a project
+needs them and when I understand how to maintain them.
+
+---
+
+## 💬 My Approach
+
+I believe a good beginner project should be clear before it is impressive. I
+prefer a small working feature over a large list of tools, and I try to be
+honest about what I know, what I am learning, and what still needs work.
+
+---
+
+## 📞 Connect With Me
+
+- **Email:** [markjiggervm@gmail.com](mailto:markjiggervm@gmail.com)
+- **GitHub:** [@markjiggermasacupan](https://github.com/markjiggermasacupan)
 
 <div align="center">
 
