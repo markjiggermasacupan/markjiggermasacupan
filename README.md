@@ -7,8 +7,7 @@
 I am learning by building small, useful web applications and improving them
 one step at a time.
 
-[Portfolio](./resume.html) ·
-[GitHub](https://github.com/markjiggermasacupan)
+[Portfolio](https://markjiggermasacupan.github.io/)
 
 </div>
 
@@ -77,7 +76,7 @@ JavaScript.
 - Uses no framework or build process because this project does not need one yet
 
 **Status:** Active learning project  
-**Repository:** [markjiggermasacupan](https://github.com/markjiggermasacupan/markjiggermasacupan)
+**Repository:** [markjiggermasacupan.github.io](https://github.com/markjiggermasacupan/markjiggermasacupan.github.io)
 
 ### 🛒 Sari-sari Store Inventory
 
